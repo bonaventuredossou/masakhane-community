@@ -13,6 +13,7 @@
 | English-isiXhosa | | | | [Navy Corpus](http://opus.nlpl.eu/XhosaNavy.php) |
 | Lingala-French | | | | [Lingala Song Lyrics](https://github.com/espoirMur/songs_lyrics_webscrap) |
 | Igbo-English  |10k| | | [Evaluation Benchmark](https://github.com/IgnatiusEzeani/IGBONLP/tree/master/ig_en_mt) |
+| Fon-French (FFR)  |54k| | | [FFR Corpus](https://github.com/bonaventuredossou/ffr-v1/tree/master/FFR-Dataset) |
 
 ## Monolingual
 
